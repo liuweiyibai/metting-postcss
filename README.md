@@ -1,11 +1,3 @@
----
-title: 很大一个疑问：PostCSS 是什么
-tags:
-  - css
-abbrlink: 20170816
-date: 2017-08-16 14:18:16
----
-
 首先，PostCSS 和styl、scss、以及less等预处理语言，差别在哪里。
 
 ### css预处理语言
